@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](www.linkedin.com/in/shivam-kumar-singh-635b5328a)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](www.linkedin.com/in/shivam-kumar-singh-635b5328a/)
 <h1 align="center">I'm Shivam Singh</h1>
 <h3 align="center">Undergrad At IIIT-Allahabad</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/ssssshivamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/shivam-kumar-singh-635b5328a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-singh-635b5328a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shivam-kumar-singh-635b5328a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-singh-635b5328a/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shivamsinghiiita?igsh=MXFyNGtic2VyaWZhZg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamsinghiiita" height="30" width="40" /></a>
 </p>
 
