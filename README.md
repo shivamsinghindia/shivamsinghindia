@@ -3,7 +3,7 @@
 <h3 align="center">Undergrad At IIIT-Allahabad</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashirith&label=Profile%20views&color=0e75b6&style=flat" alt="shashirith" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shashirith" target="blank"><img src="https://img.shields.io/twitter/follow/shashirith?logo=twitter&style=for-the-badge" alt="shashirith" /></a> </p>
 
