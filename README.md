@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/ssssshivamsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam" height="30" width="40" /></a>
-<a href="www.linkedin.com/shivam-kumar-singh-635b5328a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-singh-635b5328a/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/shivam-kumar-singh-635b5328a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-singh-635b5328a/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shivamsinghiiita?igsh=MXFyNGtic2VyaWZhZg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamsinghiiita" height="30" width="40" /></a>
 </p>
 
