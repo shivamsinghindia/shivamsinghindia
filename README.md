@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivamsinghindia21@gmail.com**
 
-- 📄 Checkout My [RESUME](https://drive.google.com/file/d/1uxDpNvGhUnbSpdrm5ZtX4a6hHPxUlAYI/view?usp=drive_link)
+- 📄 Checkout My [RESUME](https://drive.google.com/file/d/1JA8ugAoFQ9Y1T0l9KCgdkmeyhFXpFRpL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
